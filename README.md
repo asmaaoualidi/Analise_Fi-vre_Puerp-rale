@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dr. Semmelweis and Handwashing: Data Analysis Project
 
 ## 📜 Project Description
@@ -77,3 +78,7 @@ Analise_Fièvre_Puérpérale/
 ✨ Acknowledgments
 Inspired by the work of Dr. Ignaz Semmelweis.
 Data sources: Historical datasets for analysis of maternal mortality.
+=======
+# Analise_Fi-vre_Puerp-rale
+Une analyse des données hospitalières de 1841 à 1849 pour sauver des vies.
+>>>>>>> cb2888cedaf8425013a9ec8cd84447665eefceed
