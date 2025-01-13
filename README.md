@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dr. Semmelweis and Handwashing: Data Analysis Project
 
 ## 📜 Project Description
@@ -57,7 +56,7 @@ Analise_Fièvre_Puérpérale/
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/semmeweis-analysis.git
+   https://github.com/asmaaoualidi/Analise_Fi-vre_Puerp-rale.git
 
 2. Navigate to the project directory:
    ```bash
@@ -81,4 +80,4 @@ Data sources: Historical datasets for analysis of maternal mortality.
 =======
 # Analise_Fi-vre_Puerp-rale
 Une analyse des données hospitalières de 1841 à 1849 pour sauver des vies.
->>>>>>> cb2888cedaf8425013a9ec8cd84447665eefceed
+
